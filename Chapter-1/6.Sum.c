@@ -18,6 +18,10 @@ int main() {
 
 //print the sum
     printf("the sum is : %d", sum);
-    
+
+/*we can also do--
+
+    printf("the sum is : %d", a + b);
+*/
     return 0;
 }
