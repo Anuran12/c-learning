@@ -12,7 +12,7 @@ int main() {
     printf("%f\n", 2.1 * 2.2);//output shuld be float-"%f"
 
 
-//EXEPTIONS
+//EXCEPTIONS
     printf("%f\n", 3.0/2);//don't put 3/2
 
     int a = (int) 1.999999;//explicit conversion
